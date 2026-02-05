@@ -15,6 +15,8 @@
 
 **Backend & Frameworks**
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/LARAVEL-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/PYTHON-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
@@ -27,18 +29,16 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NichoHo&show_icons=true&locale=en&theme=dark&hide_border=true" alt="NichoHo Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NichoHo&show_icons=true&locale=en&theme=dark&hide_border=true" alt="NichoHo Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NichoHo&layout=compact&theme=dark&hide_border=true" alt="NichoHo Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=NichoHo&layout=compact&theme=dark&hide_border=true" alt="NichoHo Top Langs" />
 </p>
 
 ---
 
 ### 🔗 Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/nichoho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nichoho" height="30" width="40" /></a>
-<a href="https://instagram.com/nchlas.ho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nchlas.ho" height="30" width="40" /></a>
-</p>
+[<img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nichoho/)
+[<img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" />](https://instagram.com/nchlas.ho)
