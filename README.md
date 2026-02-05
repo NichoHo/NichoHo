@@ -32,10 +32,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NichoHo&show_icons=true&locale=en&theme=dark&hide_border=true" alt="NichoHo Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=NichoHo&layout=compact&theme=dark&hide_border=true" alt="NichoHo Top Langs" />
-</p>
-
 ---
 
 ### 🔗 Connect
