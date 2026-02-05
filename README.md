@@ -7,6 +7,7 @@
 ### 🛠️ Tech Stack
 
 **Frontend**
+<br></br>
 ![REACT](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![NEXT.JS](https://img.shields.io/badge/NEXT.JS-black?style=flat-square&logo=next.js&logoColor=white)
 ![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -14,6 +15,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & Frameworks**
+<br></br>
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
@@ -21,6 +23,7 @@
 ![PYTHON](https://img.shields.io/badge/PYTHON-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 **Languages**
+<br></br>
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 
