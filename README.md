@@ -16,15 +16,16 @@
 
 **Backend & Frameworks**
 <br></br>
-![NODE.JS](https://img.shields.io/badge/NODE.JS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/PYTHON-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![NODE.JS](https://img.shields.io/badge/NODE.JS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
 **Languages**
 <br></br>
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 
 ---
